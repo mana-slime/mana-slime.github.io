@@ -1,9 +1,9 @@
 ---
-title: "블로그 개설"
+title: "💧 mana overflow"
 categories:
-    - blogging
+    - blog
 tags:
-    - blogging
+    - blog
 ---
 
 # jekyll 블로그 개설
