@@ -1,5 +1,5 @@
 ---
-title: "💧 mana overflow"
+title: "mana overflow"
 categories:
     - blog
 tags:
